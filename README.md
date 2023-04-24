@@ -1,4 +1,4 @@
-<h1>Hi, I'm Eric, an <a href="https://www.linkedin.com/in/eric-mhart/">IT Professional
+<h1>Hi, I'm Eric, an <a href="https://www.linkedin.com/in/eric-mhart/">IT Professional</a></h1>
   
   
 
